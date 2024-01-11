@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pragathi Ravipati</h1>
 <h3 align="center">Unlocking Insights in the Binary Jungle: Adventures in Data Exploration</h3>
 
-- 🌱 I’m currently learning **GAN's, AWS Cloud and Network Analysis**
+- 🌱 I’m currently learning **GAN's, Azure Cloud and Network Analysis**
 
 - 📫 How to reach me **pragathiravipati@gmail.com**
 
